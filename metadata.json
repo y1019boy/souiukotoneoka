@@ -1,0 +1,5 @@
+{
+  "name": "P2P Earthquake Monitor",
+  "description": "Real-time Japanese earthquake information using P2PQuake WebSocket API.",
+  "requestFramePermissions": []
+}
